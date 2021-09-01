@@ -9,6 +9,8 @@
       <excludeFolder url="file://$MODULE_DIR$/stateless_stateful/build" />
       <excludeFolder url="file://$MODULE_DIR$/variosWidgets/build" />
       <excludeFolder url="file://$MODULE_DIR$/variosWidgets/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mod_estado_componente/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mod_estado_componente/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
