@@ -5,6 +5,10 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/aula_2.3/build" />
       <excludeFolder url="file://$MODULE_DIR$/aula_2.3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/stateless_stateful/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/stateless_stateful/build" />
+      <excludeFolder url="file://$MODULE_DIR$/variosWidgets/build" />
+      <excludeFolder url="file://$MODULE_DIR$/variosWidgets/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
