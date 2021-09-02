@@ -11,6 +11,8 @@
       <excludeFolder url="file://$MODULE_DIR$/variosWidgets/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/mod_estado_componente/build" />
       <excludeFolder url="file://$MODULE_DIR$/mod_estado_componente/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/nova_calculadora/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/nova_calculadora/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
